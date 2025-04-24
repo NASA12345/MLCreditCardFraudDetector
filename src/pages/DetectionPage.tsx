@@ -33,7 +33,7 @@ const DetectionPage = () => {
     
     setIsLoading(true);
     try {
-      const response = await axios.post("https://creditcardapi-t1ry.onrender.com/predict", {
+      const response = await axios.post("https://creditcardfraudapi-od1x.onrender.com/predict", {
         ...Object.fromEntries(
           Object.entries(formData).map(([k, v]) => [k, parseFloat(v)])
         ),
