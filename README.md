@@ -6,7 +6,7 @@ A web application built with React that uses machine learning to detect fraudule
 
 ## 🚀 Live Demo
 
-Check out the live project here: [Credit Card Fraud Detector](https://your-deployed-link.vercel.app)
+Check out the live project here: [Credit Card Fraud Detector](https://credit-card-fraud-detector-alpha.vercel.app/)
 
 ---
 
