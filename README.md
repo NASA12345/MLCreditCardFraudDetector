@@ -1,73 +1,98 @@
-# Welcome to your Lovable project
+# 💳 Credit Card Fraud Detection
 
-## Project info
+A web application built with React that uses machine learning to detect fraudulent credit card transactions in real time.
 
-**URL**: https://lovable.dev/projects/3156ea71-f51f-4c13-b915-2306bff5881f
+---
 
-## How can I edit this code?
+## 🚀 Live Demo
 
-There are several ways of editing your application.
+Check out the live project here: [Credit Card Fraud Detector](https://your-deployed-link.vercel.app)
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3156ea71-f51f-4c13-b915-2306bff5881f) and start prompting.
+## ✨ Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- 📊 Real-time fraud analysis  
+- 🧠 Machine learning powered backend  
+- 💡 Intelligent pattern recognition  
+- ⚡ Fast, responsive, and intuitive UI  
+- 🔐 Secure transaction insights  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Frontend:** React, React Router, Tailwind CSS, Lucide Icons  
+- **Backend:** Python (Flask or FastAPI)  
+- **ML Models:** Logistic Regression, SVM, Random Forest  
+- **Deployment:** Vercel (Frontend), Render/Heroku/Replit (Backend)  
+- **Other Tools:** Git, GitHub, VS Code  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🏃‍♂️ Getting Started
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+### 📦 Clone the repository
+```bash
+git clone https://github.com/NASA12345/MLCreditCardFraudDetector.git
+cd MLCreditCardFraudDetector
 ```
 
-**Edit a file directly in GitHub**
+### 🧩 Install dependencies
+```bash
+npm install
+# or
+yarn install
+```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### ✅ Run all tests
+If your project includes automated tests (e.g. using Jest or Vitest), run:
+```bash
+npm test
+# or
+yarn test
+```
+✅ Ensure all tests pass before deployment!
 
-**Use GitHub Codespaces**
+### 🚀 Run the app locally
+```bash
+npm run dev
+# or
+yarn dev
+```
+Open [http://localhost:3000](http://localhost:3000) with your browser to view it.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## 📝 Usage
 
-This project is built with:
+1. Navigate to the homepage  
+2. Input or simulate credit card transaction details  
+3. Click **Analyze**  
+4. Instantly view if the transaction is **Legit** or **Fraudulent**
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🤝 Contributing
 
-Simply open [Lovable](https://lovable.dev/projects/3156ea71-f51f-4c13-b915-2306bff5881f) and click on Share -> Publish.
+Got an idea or found a bug? Contributions, issues, and feature requests are always welcome!
 
-## Can I connect a custom domain to my Lovable project?
+Feel free to:
 
-Yes, you can!
+- Open an issue  
+- Submit a pull request  
+- Suggest new features  
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👥 Authors
+
+**Nayan Jindal**  [GitHub Profile](https://github.com/NASA12345)  
+Built with ❤️ using React & ML
+
+
